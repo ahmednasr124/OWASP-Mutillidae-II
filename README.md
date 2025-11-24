@@ -196,7 +196,7 @@ This branch contained:
 
 * OWASP Mutillidae II: [https://github.com/webpwnized/mutillidae](https://github.com/webpwnized/mutillidae)
 * Semgrep Documentation: [https://semgrep.dev/docs/](https://semgrep.dev/docs/)
-* My GitHub Repo: [https://github.com/MostafaaaHussein/SAST-](https://github.com/MostafaaaHussein/SAST-)
+
 
 ---
 
